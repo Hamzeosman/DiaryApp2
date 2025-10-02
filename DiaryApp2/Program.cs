@@ -22,7 +22,7 @@ class Program
         while (true)
         {
             Console.Clear();
-            Console.WriteLine("=== Hamzes Diary ===");
+            Console.WriteLine("=== Hamze Diary ===");
             Console.WriteLine("1. Write New Notes");
             Console.WriteLine("2. List All Notes");
             Console.WriteLine("3. Search For Notes By Date");
