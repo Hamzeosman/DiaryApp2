@@ -63,7 +63,7 @@ class Program
     static void AddEntry()
     {
         Console.Clear();
-        Console.WriteLine("=== NEW NOTE ===");
+        Console.WriteLine("=== NEW NOTE! ===");
 
         DateTime date;
         Console.Write("Enter date (åååå-mm-dd): ");
