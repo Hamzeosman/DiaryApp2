@@ -95,7 +95,7 @@ class Program
     static void ListEntries()
     {
         Console.Clear();
-        Console.WriteLine("=== ALL NOTES ===");
+        Console.WriteLine("=== ALL NOTES! ===");
 
         if (diaryEntries.Count == 0)
         {
