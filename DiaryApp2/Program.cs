@@ -114,7 +114,7 @@ class Program
     static void SearchEntry()
     {
         Console.Clear();
-        Console.WriteLine("=== FIND NOTES ===");
+        Console.WriteLine("=== FIND NOTES! ===");
 
         Console.Write("Enter Date (åååå-mm-dd): ");
         DateTime date;
